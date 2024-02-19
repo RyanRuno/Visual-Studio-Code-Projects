@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.frmMain.resources
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.Resources.resources
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\bin\Debug\HaleComforterProject.exe.config
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\bin\Debug\HaleComforterProject.exe
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\bin\Debug\HaleComforterProject.pdb
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\bin\Debug\HaleComforterProject.xml
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.exe
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.xml
+C:\Users\Admin\source\repos\HaleSolution\HaleComforterProject\obj\Debug\HaleComforterProject.pdb
