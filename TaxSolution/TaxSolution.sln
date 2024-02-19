@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TaxProject", "TaxProject\TaxProject.vbproj", "{77B32289-85F4-49AB-843D-4F39FDDDE79E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77B32289-85F4-49AB-843D-4F39FDDDE79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B32289-85F4-49AB-843D-4F39FDDDE79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B32289-85F4-49AB-843D-4F39FDDDE79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B32289-85F4-49AB-843D-4F39FDDDE79E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61DF0F0C-4235-4745-9D43-DA064C5BF40D}
+	EndGlobalSection
+EndGlobal
