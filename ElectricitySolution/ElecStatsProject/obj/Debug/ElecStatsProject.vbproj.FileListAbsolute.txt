@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.frmMain.resources
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.Resources.resources
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\bin\Debug\ElecStatsProject.exe.config
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\bin\Debug\ElecStatsProject.exe
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\bin\Debug\ElecStatsProject.pdb
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\bin\Debug\ElecStatsProject.xml
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.exe
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.xml
+C:\Users\Admin\source\repos\ElectricitySolution\ElecStatsProject\obj\Debug\ElecStatsProject.pdb
