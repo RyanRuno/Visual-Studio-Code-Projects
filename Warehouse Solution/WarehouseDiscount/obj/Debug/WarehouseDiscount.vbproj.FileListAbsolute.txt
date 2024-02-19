@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\bin\Debug\WarehouseDiscount.exe.config
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\bin\Debug\WarehouseDiscount.exe
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\bin\Debug\WarehouseDiscount.pdb
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\bin\Debug\WarehouseDiscount.xml
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.frmMain.resources
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.Resources.resources
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.exe
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.xml
+C:\Users\Admin\source\repos\Solution\WarehouseDiscount\obj\Debug\WarehouseDiscount.pdb
